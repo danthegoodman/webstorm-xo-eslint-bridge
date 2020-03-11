@@ -1,0 +1,13 @@
+{
+  "name": "webstorm-xo-eslint-bridge",
+  "version": "6.8.0",
+  "license": "MIT",
+  "description": "eslint bridge for xo for Webstorm",
+  "keywords": ["xo","eslint","webstorm"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danthegoodman/webstorm-xo-eslint-bridge.git"
+  },
+  "homepage": "https://github.com/danthegoodman/webstorm-xo-eslint-bridge",
+  "bugs": "https://github.com/danthegoodman/webstorm-xo-eslint-bridge/issues"
+}
